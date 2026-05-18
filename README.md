@@ -24,7 +24,7 @@ SQL Server's built-in missing index DMVs show *what* indexes are missing, but no
 
 ## Requirements
 
-- SQL Server 2019 or later
+- SQL Server 2017 or later
 - Query Store enabled on the target database
 - Execute in the context of the target database (`USE [YourDatabaseName]`)
 
@@ -40,6 +40,7 @@ GO
 
 - **Original Author:** Pinal Dave ([SQLAuthority.com](https://blog.sqlauthority.com/2011/01/03/sql-server-2008-missing-index-script-download/))
 - **Extended by:** Joao Barbosa
+- **Ported to SQL Server 2017:** This guy [rgelb] (https://github.com/rgelb)
 
 ## License
 
