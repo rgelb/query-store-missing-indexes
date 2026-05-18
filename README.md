@@ -40,7 +40,7 @@ GO
 
 - **Original Author:** Pinal Dave ([SQLAuthority.com](https://blog.sqlauthority.com/2011/01/03/sql-server-2008-missing-index-script-download/))
 - **Extended by:** Joao Barbosa
-- **Ported to SQL Server 2017:** This guy [rgelb] (https://github.com/rgelb)
+- **Ported to SQL Server 2017:** This guy [rgelb](https://github.com/rgelb)
 
 ## License
 
